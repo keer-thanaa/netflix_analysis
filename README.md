@@ -1,4 +1,5 @@
 📺 Netflix Dataset Analysis
+
 This is my second dataset analysis as part of my personal challenge to explore one dataset every day. In this project, I analyzed the Netflix Movies and TV Shows dataset using Python, Pandas, NumPy, and Matplotlib. The aim was to perform basic data cleaning, create visualizations, and uncover trends in Netflix content over the years.
 
 🧰 Tools Used
